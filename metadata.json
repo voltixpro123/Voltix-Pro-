@@ -1,6 +1,0 @@
-{
-  "name": "Voltix Pro GH",
-  "description": "Premium wireless earpods in Ghana starting from just Ghc 40, featuring real-time ad video previewing, interactive earpod customiser, and WhatsApp MTN MoMo payments.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
